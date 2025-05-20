@@ -1,4 +1,4 @@
-# Project Title: Financial-Analysis - Fisher-Paykel-Healthcare | Power BI
+# Project Title: Financial Analysis - Fisher Paykel Healthcare | Power BI
 
 
 
