@@ -32,8 +32,7 @@ This project is designed for stakeholders in the healthcare and medical device i
 ## 📊 Power BI Visualization
 
 ### Dashboard 1 Preview
-![image](https://github.com/user-attachments/assets/452222c7-ee50-478f-81ee-218282e2f468)
-
+![image](https://github.com/user-attachments/assets/765be3c7-c27c-434d-83ba-c3c57f6c842a)
 
 ### Dashboard 2 Preview
 
