@@ -34,18 +34,19 @@ This project is designed for stakeholders in the healthcare and medical device i
 ### Dashboard 1 Preview
 ![image](https://github.com/user-attachments/assets/765be3c7-c27c-434d-83ba-c3c57f6c842a)
 
-### Dashboard 2 Preview
 
 
 
 
-## 🔎 Final Conclusion & Recommendations 
 
+## 🔎 Final Conclusion 
  **Key Insights:**
 
-**Recommendations:**
+In 2024, the company delivered strong revenue growth, with operating revenue rising 10% to $1,742.8 million, driven by solid performance in both the Hospital and Homecare segments. Gross margin improved to 59.9%, up 95 basis points in constant currency, supported by lower freight costs, manufacturing efficiencies, and strategic pricing initiatives.
 
+Despite this improvement, net income for 2024 declined sharply, primarily due to a 14% increase in operating expenses—reaching $691.0 million—stemming from continued investment in R&D and the expansion of the global sales force. The decline was further impacted by a land revaluation loss, a tax adjustment, and a product recall. Additionally, net financing expenses rose to $19.6 million as a result of higher interest rates and increased borrowings. The effective tax rate also climbed from 23.7% to 25.3%, and excluding R&D tax credits, it reached 30.5%, contributing to a significant rise in the overall tax burden.
 
+In summary, the 2024 income statement reflects strong operational performance, marked by solid revenue and gross margin growth. While higher expenses and one-off items weighed on reported profit, the company remained profitable and showed resilience through strategic investment and effective cost control.
 
 ## 📂 Dataset Description
 
