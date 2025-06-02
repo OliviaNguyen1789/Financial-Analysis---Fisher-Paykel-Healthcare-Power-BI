@@ -18,15 +18,14 @@ IV. [📂 Dataset Description](#-dataset-description)
 ## 📌 Background & Overview
 
 ### 📖 What is this project about?
-This Power BI project analyzes the financial performance of Fisher & Paykel Healthcare by examining key components of its Income Statement and Balance Sheet. The analysis focuses on revenue trends, cost structures, profitability, asset and liability composition, and equity changes over time. The dashboard provides clear, data-driven insights to support strategic decision-making and monitor the company's financial sustainability.
+This Power BI project analyzes Fisher & Paykel Healthcare’s financial performance in 2024 by examining key Income Statement components. It focuses on revenue, cost structures, profitability, and trends over the past five years. The dashboard delivers clear, data-driven insights to support strategic decision-making and monitor the company’s financial sustainability.
 
 ### 👤 Who is this project for?   
 This project is designed for stakeholders in the healthcare and medical device industry, particularly financial analysts, corporate strategists, investors, and business decision-makers with an interest in Fisher & Paykel Healthcare. It supports professionals seeking to understand the company's financial performance, evaluate its operational efficiency, and make informed investment or strategic planning decisions based on key insights from its income statement and balance sheet.
 
 ### ❓ Business Questions:
-- How has Fisher & Paykel Healthcare’s revenue and net income evolved from 2021 to 2024?
+- How has Fisher & Paykel Healthcare’s revenue and net income evolved from 2020 to 2024?
 - What are the main drivers behind changes in profitability, such as cost of goods sold, R&D expenses, or operational costs?-
-- How efficiently is the company managing its assets and liabilities as reflected in key balance sheet components?
 
 
 ## 📊 Power BI Visualization
